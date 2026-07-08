@@ -24,7 +24,11 @@
 
 使用AI的提示詞:
 我可以透過甚麼方式完成此作業
+
+
 想問工作週期是甚麼控制
+
+
 一個工作週期是100ms嗎？因為我設計10ms是一個clk
 
 <img width="1480" height="243" alt="image" src="https://github.com/user-attachments/assets/90fab0c4-cfa5-4571-8405-5a668e79de1b" />
